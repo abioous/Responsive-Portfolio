@@ -4,7 +4,7 @@ I have build responsive design using HTML5 and CSS with media queries.
 For layout I have mainly used flexbox.
 
 ## Live Link
- - https://github.com/abioous/Responsive-Portfolio/index.html
+ - https://github.com/abioous/Responsive-Portfolio/blob/master/index.html
 
 ## Description on how to use the app
 
